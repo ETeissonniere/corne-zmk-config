@@ -19,8 +19,8 @@
             layers = <0>;
         };
 
-        arc-screenshot {
-            bindings = <&kp LS(LG(NUMBER_2))>;
+        mac-clip-screenshot {
+            bindings = <&kp LG(LS(S))>;
             key-positions = <2 15>;
         };
     };
